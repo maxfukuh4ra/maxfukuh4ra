@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxfukuh4ra
-- 👀 I’m interested in Sofware Engineering, (both front-end, back-end, and full-stack developing) Tech Consulting, and Product Management!
+- 👀 I’m interested in Sofware Engineering, (front-end, back-end, full-stack) Tech Consulting, and Product Management!
 - 🌱 I’m currently learning Operating System Principles and Machine Learning.
 - 💞️ I’m looking to collaborate on some cool projects with my friends :)
 - 📫 Reach me at maxfuku04@g.ucla.edu
