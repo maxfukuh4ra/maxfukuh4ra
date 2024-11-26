@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxfukuh4ra
+- 👋 Hi, I’m Max, junior studying Computer Science at UCLA Samueli School of Engineering.
 - 👀 I’m interested in Sofware Engineering, (front-end, back-end, full-stack) Tech Consulting, and Product Management!
 - 🌱 I’m currently learning Operating System Principles and Machine Learning.
 - 💞️ I’m looking to collaborate on some cool projects with my friends :)
